@@ -2,7 +2,9 @@
 
 public class FindMax {
     public static void main(String[] args) {
-        int[] numbers = {3, 7, 2, 9, 5,100};
+
+        int[] numbers = {3,7,2};
+
         
         // Assume the first element is the largest
         int max = numbers[0]; 
